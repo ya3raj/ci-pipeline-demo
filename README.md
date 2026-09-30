@@ -1,1 +1,1 @@
-# ci-pipeline-demo
+# Web App Test\n\nThis is a simple repository used for testing continuous integration pipelines
